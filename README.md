@@ -1,6 +1,6 @@
 ![welcome.gif](assets%2Fwelcome.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hello,+i+python+programmer;and+3D+designer;and+also;i+can+make+websites,;telegram+bots;and+intersting+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hello,+i+python+programmer;and+3D+designer;and+also;i+can+make+websites,;telegram+bots;and+intersting+projects...)](https://git.io/typing-svg)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Johnny-kiv)
 
 <h3>Top repositories:</h3>
