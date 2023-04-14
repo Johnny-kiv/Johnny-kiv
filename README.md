@@ -27,4 +27,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,github,html,css,js,flask,sqlite,unity,stackoverflow,atom,blender,django,arduino&theme=dark)](https://skillicons.dev)
 
-![github-user-contribution.svg](github-user-contribution.svg)
+![github-user-contribution.svg](assets/github-user-contribution.svg)
